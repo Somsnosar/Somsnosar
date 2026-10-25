@@ -1,2 +1,2 @@
-journeyman software molder at thoughtcorp.\n
+journeyman software molder at thoughtcorp.<br>
 magicians dni
